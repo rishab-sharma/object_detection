@@ -3,9 +3,8 @@
 Machine learning models capable of localizing and identifying
 multiple objects in a single image in computer vision .
 
-<p align="center">
-  [![Tensorflow Object Detection](https://img.youtube.com/vi/0SdD5dDRK-c/0.jpg)](https://www.youtube.com/watch?v=0SdD5dDRK-c)
-</p>
+[![Tensorflow Object Detection](https://img.youtube.com/vi/0SdD5dDRK-c/0.jpg)](https://www.youtube.com/watch?v=0SdD5dDRK-c)
+
 Contributions to the codebase are welcome and we would love to hear back from
 you if you find this API useful.  Finally if you use the Tensorflow Object
 Detection API for a research publication, please consider citing:
